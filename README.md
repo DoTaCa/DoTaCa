@@ -1,6 +1,5 @@
 ### Hola  👋
 
 - 🌱 Mi nombre es Dolores
-- 👯 Espero aprende mucho en este curso.
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
+- 👯 Espero aprender mucho en este curso.
+- 
